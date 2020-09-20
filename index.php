@@ -1,4 +1,4 @@
 <?php
-echo "Testando conexão Github";
+echo "Hello World!";
 ?>
 
